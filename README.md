@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashshree7
 - 👀 I’m interested in developing intuitive problem-solving, and contributing to open-source projects.
 - 💞️ I’m looking to collaborate on projects related to full-stack development.
-- 📫 How to reach me- you can connect with me on LinkedIn or email me at yashshree.722@gmail.com
+- 📫 How to reach me- you can connect with me on LinkedIn https://www.linkedin.com/in/yashshree-shah/ or email me at yashshree.722@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love coding logic-based programs and have a knack for building efficient solutions from scratch!
 
